@@ -1,2 +1,3 @@
 This is a new file in the local repo via GIT.
 2nd line added to the branch of local repo GIT.
+3rd line added to the branch of local repo GIt.(2nd line is merged to master)
